@@ -77,7 +77,7 @@ const plan_4 = {
     "title": "Plan No. 4 BBQ Special",
     "price": 39.99,
     "discount": 29.99,
-    "bonus": "Free 2 Liter Soda",
+    "bonus": "Free 18 oz BBQ Sauce & 2 Liter of Soda",
     "items": [
         "2 lb Ground Beef",
         "2 lb Ground Beef",
