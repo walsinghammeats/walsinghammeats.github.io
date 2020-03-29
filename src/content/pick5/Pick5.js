@@ -11,7 +11,6 @@ const Pick5 = props => html`
           <div class="w3-container w3-medium">
             <p class="w3-center w3-padding">
               <span class="w3-medium w3-opacity"><del>$${props.price}</del></span>
-              <span class="w3-badge w3-padding w3-large w3-red w3-animate-zoom"><b>$${props.discountPrice}</b></span>
             </p>
             <div class="w3-row-padding">
               <div class="w3-col l6 s12">
