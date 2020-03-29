@@ -9,6 +9,7 @@ import {
 import Pick5 from './content/pick5/Pick5.js';
 import pick5_data from './content/pick5/data.js';
 import poultry_data from './content/poultry/data.js';
+import pork_data from './content/poultry/pork-data.js';
 import priceByTheCase_data from './content/priceByTheCase/data.js';
 import usdaBeefSpecial from './content/priceByTheCase/beef-data.js';
 import SingleColumnPriceTable from './content/common/SingleColumnPriceTable.js';
@@ -33,7 +34,7 @@ class Home extends Component {
                 <div class="w3-content">
                     <div class="w3-row-padding card-deck">
                         <${SingleColumnPriceTable} ...${usdaBeefSpecial} />
-                        <${TwoColumnPriceTable}  ...${poultry_data} />
+                        <${TwoColumnPriceTable}  ...${pork_data} />
                     </div>
                 </div>
                 <div class="w3-content">
