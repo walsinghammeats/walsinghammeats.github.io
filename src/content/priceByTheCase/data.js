@@ -6,7 +6,7 @@ export default {
         { "title": "40lb Box Chicken Wings", "price": "Call" },
         { "title": "30lb Box Ribs", "price": 69.99 },
         { "title": "10lb Box Uncle John Sausage", "price": 36.99 },
-        { "title": "10lb Box", "price": 36.99 }
+        { "title": "10lb Box Alabama Sausage", "price": 36.99 }
     ]
 };
 
