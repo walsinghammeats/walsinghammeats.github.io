@@ -8,6 +8,8 @@ import {
 
 import Pick5 from './content/pick5/Pick5.js';
 import pick5_data from './content/pick5/data.js';
+import seafood_data from './content/pick5/seafood_data.js';
+import deli_data from './content/pick5/deli_data.js';
 import poultry_data from './content/poultry/data.js';
 import pork_data from './content/poultry/pork-data.js';
 import priceByTheCase_data from './content/priceByTheCase/data.js';
