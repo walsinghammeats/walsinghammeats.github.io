@@ -9,4 +9,3 @@ export default {
         { "title": "B/S Chicken Breast", "five": 12.99, "ten": 23.99 }
     ]
 };
-
