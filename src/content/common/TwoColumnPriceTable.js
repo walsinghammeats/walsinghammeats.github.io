@@ -3,8 +3,12 @@ import { html } from 'https://unpkg.com/htm/preact/standalone.module.js';
 const TableRow = props => html`
 <tr>
   <td>${props.title}</td>
-  <td class="w3-right-align">$${props.five}</td>
-  <td class="w3-right-align">$${props.ten}</td>
+  <td class="w3-right-align">
+    ${typeof props.five === 'number' ? `$${props.five}` : '........'}
+  </td>
+  <td class="w3-right-align">
+    ${typeof props.ten === 'number' ? `$${props.ten}` : '........'}
+  </td>
 </tr>
 `;
 
