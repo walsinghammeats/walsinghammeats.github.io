@@ -3,7 +3,9 @@ import { html } from 'https://unpkg.com/htm/preact/standalone.module.js';
 const TableRow = props => html`
 <tr>
   <td>${props.title}</td>
-  <td class="w3-right-align">$${props.price}</td>
+  <td class="w3-right-align">
+    ${typeof props.price === 'number' ? `$${props.price}` : props.price}
+  </td>
 </tr>
 `;
 
