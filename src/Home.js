@@ -40,7 +40,7 @@ class Home extends Component {
                     </div>
                 </div>
                 <div class="w3-content">
-                    <${SingleColumnList} ...${seafood_data} title="Visit Our Seafood Market" img="blue-crab.jpg" />
+                    <${TwoColumnList} ...${seafood_data} title="Visit Our Seafood Market" img="blue-crab.jpg" />
                     <${TwoColumnList} ...${deli_data} title="Deli Package" img="deli.jpg" />
                 </div>
             </div>
