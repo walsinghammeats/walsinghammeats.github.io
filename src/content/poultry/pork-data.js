@@ -1,5 +1,5 @@
 export default {
-    "title": "Poultry Special",
+    "title": "Pork Special",
     "items": [
         { "title": "Fresh Neck Bones", "five": 5.99, "ten": 9.99 },
         { "title": "Pig Feet", "five": 7.99, "ten": 13.99 },
