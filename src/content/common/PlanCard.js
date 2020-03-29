@@ -10,7 +10,6 @@ const PlanCard = props => html`
                     <div class="top-corner"></div>
                     ${props.plan.items.map(it => html`<p>${it}</p>`)}
                     <p class="w3-center w3-padding">
-                        <span class="w3-medium w3-opacity"><del>$${props.plan.price}</del></span>
                         <span class="w3-badge w3-padding  w3-red w3-animate-zoom"><b>$${props.plan.discount}</b></span>
                     </p>
                 </div>
