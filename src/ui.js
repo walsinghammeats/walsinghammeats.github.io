@@ -16,7 +16,8 @@ const Slider = () => html`
         <h4 class="w3-text-white">Meat Market</h4>
         <h3 class="w3-text-white">
           We Accept EBT Food Stamps<br />
-          Debit Card and Credit Card
+          Debit Card and Credit Card<br />
+          Prices Subject to change according to market
         </h3>
       </div>
     </div>
