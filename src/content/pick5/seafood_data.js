@@ -1,7 +1,18 @@
 export default {
     "title": "Come Visit Our Seafood Market",
-    "price": "19.99",
+    "discountPrice": "Call for Prices",
     "items": [
-        "1lb Bacon"
+        "Live Blue Crabs",
+        "Snow Crab Legs",
+        "Shrimp",
+        "Crawfish",
+        "Lobster Tail",
+        "Clams",
+        "Mussels",
+        "Scallops",
+        "Frog Legs",
+        "Gator Tail",
+        "Oysters",
+        "Conch Meat"
     ]
 };
