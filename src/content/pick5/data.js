@@ -1,6 +1,6 @@
 export default {
     "title": "Pick Any 5 Items",
-    "discountPrice": "19.99",
+    "discountPrice": "22.99",
     "items": [
         "1lb Bacon",
         "1.75lb Andy Sausage",
