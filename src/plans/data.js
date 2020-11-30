@@ -1,6 +1,6 @@
 const plan_1 = {
     "title": "Plan No. 1",
-    "discount": 29.99,
+    "discount": 34.99,
     "bonus": "Free 2 Liter Soda",
     "items": [
         "2lb Ground Beef",
@@ -15,7 +15,7 @@ const plan_1 = {
 
 const plan_2 = {
     "title": "Plan No. 2",
-    "discount": 39.99,
+    "discount": 44.99,
     "bonus": "Free 2 Liter Soda",
     "items": [
         "2lb Chicken Wings",
@@ -30,7 +30,7 @@ const plan_2 = {
 
 const plan_3 = {
     "title": "Plan No. 3",
-    "discount": 49.99,
+    "discount": 54.99,
     "bonus": "3lb Bag of Rice",
     "items": [
         "2lb Bacon",
@@ -46,7 +46,7 @@ const plan_3 = {
 
 const plan_4 = {
     "title": "Plan No. 4 BBQ Special",
-    "discount": 64.99,
+    "discount": 74.99,
     "bonus": "Free 18 oz BBQ Sauce & 2 Liter of Soda",
     "items": [
         "1 Slab of Ribs",
@@ -64,7 +64,7 @@ const plan_4 = {
 
 const plan_5 = {
     "title": "Plan No. 5",
-    "discount": 69.99,
+    "discount": 79.99,
     "bonus": "Free Case Faygo Soda Cans",
     "items": [
         "2lb Round Steak",
@@ -81,7 +81,7 @@ const plan_5 = {
 
 const plan_6 = {
     "title": "Plan No. 6 Steak Plan",
-    "discount": 79.99,
+    "discount": 89.99,
     "bonus": "Free 6 pk Soda",
     "items": [
         "2lb T-Bone Steak",
@@ -96,7 +96,7 @@ const plan_6 = {
 
 const plan_7 = {
     "title": "Plan No. 7",
-    "discount": 89.99,
+    "discount": 99.99,
     "bonus": "Free 3lb Bag Rice & 6 pk Soda",
     "items": [
         "1 Slab Of Ribs",
@@ -115,7 +115,7 @@ const plan_7 = {
 
 const plan_8 = {
     "title": "Plan No. 8",
-    "discount": 99.99,
+    "discount": 109.99,
     "bonus": "Free Jar Yellow Rice",
     "items": [
         "3lb Ground Beef",
@@ -134,7 +134,7 @@ const plan_8 = {
 
 const plan_9 = {
     "title": "Plan No. 9",
-    "discount": 129.99,
+    "discount": 139.99,
     "bonus": "Free 1/2 Gallon BBQ Sauce",
     "items": [
         "1 Slab of Ribs",
@@ -154,7 +154,7 @@ const plan_9 = {
 
 const plan_10 = {
     "title": "Plan No. 10",
-    "discount": 159.99,
+    "discount": 169.99,
     "bonus": "Free 5lb Bag Rice & 6 Pack Soda",
     "items": [
         "5lb Uncle Johns Sausage",
@@ -175,7 +175,7 @@ const plan_10 = {
 
 const plan_11 = {
     "title": "Plan No. 11",
-    "discount": 179.99,
+    "discount": 199.99,
     "bonus": "Free Case Faygo Soda Cans & 1/2 Gallon BBQ Sauce",
     "items": [
         "5lb T-Bone Steak",
@@ -194,7 +194,7 @@ const plan_11 = {
 
 const plan_12 = {
     "title": "Seafood Combo",
-    "discount": 59.99,
+    "discount": 79.99,
     "bonus": "Free 16oz Shrimp & Crab Boil Season",
     "items": [
         "2lb Bag of Shrimp",
