@@ -15,7 +15,7 @@ const plan_1 = {
 
 const plan_2 = {
     "title": "Plan No. 2",
-    "discount": 44.99,
+    "discount": 49.99,
     "bonus": "Free 2 Liter Soda",
     "items": [
         "2lb Chicken Wings",
