@@ -46,7 +46,7 @@ const plan_3 = {
 
 const plan_4 = {
     "title": "Plan No. 4 BBQ Special",
-    "discount": 74.99,
+    "discount": 84.99,
     "bonus": "Free 18 oz BBQ Sauce & 2 Liter of Soda",
     "items": [
         "1 Slab of Ribs",
