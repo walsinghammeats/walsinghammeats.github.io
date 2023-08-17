@@ -30,7 +30,7 @@ const plan_2 = {
 
 const plan_3 = {
     "title": "Plan No. 3",
-    "discount": 54.99,
+    "discount": 59.99,
     "bonus": "3lb Bag of Rice",
     "items": [
         "2lb Bacon",
